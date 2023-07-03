@@ -12,7 +12,7 @@
 
 #Count the number of columns
 #Count the number of observations. 
-#Sort by name of the InstitutionCode.
+#Count how many Institution have completed this data.
 # In how many different years has the studio been done?
 
 ## Plot the months in which the observations have been done. Draw the bars in blue.
