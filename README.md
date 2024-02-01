@@ -87,7 +87,7 @@ The course will be held at the Antoni Maria Alcover building classroom.
 
 - **Karen Schöninger**, Bioinformatics, Balearic Center for Biodiversity, UIB.
 
-## 8. Target Audience**
+## 8. Target Audience
 
 This course is designed for students (undergraduate, master's, PhD) seeking to acquire fundamental programming skills to integrate computational methods into their biology studies, particularly those reliant on database analysis.
 
@@ -103,7 +103,7 @@ Free of charge.
 
 <hr>
 
-<p align="center">
+<p align="left">
   <img src="img/img_01.png" width="100" style="float:left; margin-right:10px;"/>
   <img src="img/img_05.png" width="300" style="float:right; margin-left:10px;"/>
 </p>
