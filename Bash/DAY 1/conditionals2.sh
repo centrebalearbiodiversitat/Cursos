@@ -1,6 +1,7 @@
 #! /bin/bash
 
-age=17
+echo 'dime tu edad'
+read age
 
 if [ $age -ge 18 ]
 then 
