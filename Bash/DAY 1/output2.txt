@@ -1,0 +1,5 @@
+    146 "Adelie"
+    119 "Gentoo"
+     68 "Chinstrap"
+    165 "female"
+    168 "male"
